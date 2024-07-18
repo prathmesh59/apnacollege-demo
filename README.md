@@ -1,2 +1,3 @@
 # apnacollege-demo
-Author - Prathmesh Papal
+
+Author - Prathmesh Papal (Main Dev)
